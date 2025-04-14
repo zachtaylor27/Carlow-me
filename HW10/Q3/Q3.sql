@@ -1,0 +1,1 @@
+SELECT * FROM pokemon WHERE id BETWEEN 10 AND 35;
